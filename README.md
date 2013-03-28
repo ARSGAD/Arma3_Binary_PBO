@@ -1,4 +1,4 @@
-Arma3_Binary_PBO
+Arma3_PBO Files
 ================
 
 Just a place to put the binary versions :)
