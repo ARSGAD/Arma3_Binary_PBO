@@ -1,4 +1,0 @@
-These are testbuilds for Pettka because the mission no longer works on DEV and does not produce any errors.
-
-difference between the 2 files:
-https://github.com/JoSchaap/GoT_Wasteland_V2.Stratis/commit/d00e6c99e3b4884b8337259e058d2b2ac71c2405
