@@ -1,0 +1,23 @@
+// Vehicles
+5 "_APC_"
+5 "_Boat_"
+5 "_Heli_"
+5 "_Lifeboat"
+5 "_Mortar_"
+5 "_MRAP_"
+5 "_Offroad_"
+5 "_Quadbike_"
+5 "_Rubberboat"
+5 "_SDV_"
+5 "_Truck_"
+
+// Ammo boxes
+5 "Box_"
+5 "_supplyCrate_"
+
+// Units
+5 "C_man_"
+
+// Buildings & objects
+5 "Bomb"
+5 "Land_" !"Land_Sack_F" !"Land_Basket_F" !"Land_Bucket_F" !"Land_Suitcase_F" !"Land_CanisterFuel_F" !"Land_cargo_addon02_V2_F"
