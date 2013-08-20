@@ -20,4 +20,4 @@
 
 // Buildings & objects
 5 "Bomb"
-5 "Land_" !"Land_Sack_F" !"Land_Basket_F" !"Land_Bucket_F" !"Land_Suitcase_F" !"Land_CanisterFuel_F" !"Land_cargo_addon02_V2_F"
+5 "Land_" !"Land_Sack_F" !"Land_Basket_F" !"Land_Bucket_F" !"Land_Suitcase_F" !"Land_CanisterFuel_F" !"Land_cargo_addon02_V2_F" !"Land_CargoBox_V1_F" 
