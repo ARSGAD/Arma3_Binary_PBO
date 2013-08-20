@@ -12,7 +12,7 @@
 5 "_Truck_"
 
 // Ammo boxes
-5 "Box_"
+5 "Box_" !"Land_CargoBox_V1_F"
 5 "_supplyCrate_"
 
 // Units
